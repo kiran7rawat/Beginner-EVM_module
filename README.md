@@ -1,6 +1,7 @@
 # Token Creation
 
 This is a simple token creation and desctruction using solidity language as well it stores information about the token
+
 Token Creation This solidity program is used to create our own token with the help of basic functions and conditional statements studied in the solidity programming.
 
 Description This program is a simple contract written in solidity. The contract has three public variables that store the details about the coin. Mapping is used to map an address with a value. This contract contains two functions mint and burn. Mint function is used to increase the totalSupply of our coin and in contrast burn function is used to destroy token.
