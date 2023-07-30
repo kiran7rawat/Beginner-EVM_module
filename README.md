@@ -1,7 +1,11 @@
 # Token Creation
 
 This is a simple token creation and desctruction using solidity language as well it stores information about the token
+Token Creation This solidity program is used to create our own token with the help of basic functions and conditional statements studied in the solidity programming.
 
+Description This program is a simple contract written in solidity. The contract has three public variables that store the details about the coin. Mapping is used to map an address with a value. This contract contains two functions mint and burn. Mint function is used to increase the totalSupply of our coin and in contrast burn function is used to destroy token.
+
+Getting Started Executing program To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 
 ## Requirements                                                                                                                                            
@@ -23,7 +27,6 @@ Here for the token creation we create a function call mint which has two paramet
 
 `2)For Destruction:`                                                                             
 Here for the token destruction we create a function called as burn which also has same parameter as afor creating the token.It will take an address and value just like the mint functions. It will then deduct the value from the total supply and from the balance.
-
 
 
 
